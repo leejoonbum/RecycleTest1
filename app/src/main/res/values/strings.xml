@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RecycleViewTest</string>
+    <string name="sample_text">show me the money, there is no cow level, power overwhemling</string>
+    <string name="title_activity_chat">ChatActivity</string>
+    <string name="title_activity_test">TestAc</string>
+    <string name="title_activity_center">CenterActivity</string>
+    <string name="action_settings">로그아웃</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_new_post">NewPostActivity</string>
+</resources>

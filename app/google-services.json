@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "394329805485",
+    "firebase_url": "https://databasetest-e31f0.firebaseio.com",
+    "project_id": "databasetest-e31f0",
+    "storage_bucket": "databasetest-e31f0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:394329805485:android:6988595a460dfe40",
+        "android_client_info": {
+          "package_name": "taca.com.recycleviewtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "394329805485-aeuqpukbm2ssnqd1a0ohhcpbud88q9rk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrzAzdzMnEdholBfaTN2oRpaq2o3Gz-lA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
