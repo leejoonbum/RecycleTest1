@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/RecycleViewTest.iml" filepath="$PROJECT_DIR$/RecycleViewTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recye.iml" filepath="$PROJECT_DIR$/Recye.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
